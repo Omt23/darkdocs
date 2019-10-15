@@ -6,7 +6,7 @@
 .darkdocs .kix-page-content-wrapper,
 .darkdocs .docs-ui-unprintable
 {
-  background: #141414 !important;
+  background: #ffffff !important;
 }
 
 .darkdocs .kix-page-paginated,
@@ -30,7 +30,7 @@
 .darkdocs .docs-horizontal-ruler,
 .darkdocs #docs-toolbar-wrapper
 {
-  border-color: #333 !important;
+  border-color: #ffffff !important;
 }
 
 .darkdocs .goog-toolbar-button,
